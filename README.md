@@ -103,3 +103,5 @@ DBSCAN дополнил анализ, позволив обнаружить пл
 Полный код и результаты анализа находятся в файле:
 
 `customer_segmentation_kmeans_dbscan.ipynb`
+
+[Открыть ноутбук в Colab](https://colab.research.google.com/drive/1jiZBsjq5yF2YDQFscIhrM0D_leN3Zxzg?usp=sharing)
